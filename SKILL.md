@@ -3,8 +3,8 @@ name: foucauldian-discourse-analysis
 description: Examine not what is said but what makes it possible to say it. Identify the rules governing what can be thought, who can speak, and what is systematically excluded.
 license: MIT
 metadata:
+  version: 1.0.4030
   author: sethmblack
-  version: 1.0.4029
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - foucauldian-discourse-analysis
